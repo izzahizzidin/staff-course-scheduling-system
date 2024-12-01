@@ -1,0 +1,29 @@
+evt_id,evt_start,evt_end,evt_text,evt_coursecategory,evt_venue,evt_center,evt_provider,evt_duration
+3,2022-11-30,2022-11-30,"SAFE WORKING AT HEIGHT",Core,TMLEARN,"Network & IT Center","TM Learning",1
+4,2023-03-31,2023-03-31,"Contoh data","Non Core","Contoh 4","Agile Center","Contoh 5",2
+8,2022-12-12,2022-12-14,"WORK AT HEIGHT (WAH) – TELECOMMUNICATION TOWER AERIAL RIGGER LEVEL 1 (NEW)",Core,"IRATEC Training Center","Network & IT Center","Iratec (M) Sdn Bhd Industrial Rope Access Technologies",27
+9,2022-11-30,2022-11-30,"SAFE WORKING ON THE ROAD",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+10,2022-11-30,2022-11-30,"CERTIFICATE IN TRAINING PRACTICE - INTERNAL CERTIFICATION PROGRAM FOR TM TRAINERS","Non Core",TMLEARN,"Business Management Center","TM Learning and Development",1
+11,2022-11-30,2022-11-30,"TM CODE OF CONDUCT & BUSINESS ETHICS",Core,TMLEARN,"Business Management Center","TM Learning and Development",1
+12,2022-11-30,2022-11-30,"AGILE CEREMONIES (ELEARNING)",Core,TMLEARN,"Agile Center","TM Learning and Development",1
+13,2022-11-21,2022-11-21,"TM CODE OF CONDUCT & BUSINESS ETHICS",Core,TMLEARN,"Business Management Center","TM Learning and Development",1
+14,2022-11-21,2022-11-21,"PROGRAM LATIHAN ASAS KERJA SELAMAT (PLAKS)",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+15,2022-11-21,2022-11-21,"PROGRAM OSH COORDINATOR (OSH-COO) : MODULE 1 - OCCUPATIONAL SAFETY (OS)",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+16,2022-11-17,2022-11-17,"E-PEMBELAJARAN ASAS PENGENALAN KEPADA POLISI TADBIR URUS DATA TM",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+17,2022-11-17,2022-11-17,"TM CODE OF CONDUCT & BUSINESS ETHICS",Core,TMLEARN,"Business Management Center","TM Learning and Development",1
+18,2022-11-08,2022-11-08,"SOFTWARE ASSET MANAGEMENT E-LEARNING",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+19,2022-11-08,2022-11-08,"SAFE WORKING NEAR TO POWER LINE",Core,TMLEARN,"Network & IT Center","TM Learning and Development",1
+20,2022-11-04,2022-11-04,"SERVICE PERSONA FOR SUPERVISOR",Core,TMLEARN,"Business Management Center","TM Learning and Development",1
+21,2022-10-17,2022-10-17,"FIBER OPTIC MONITORING SYSTEMS (FOMS)",Core,"TM Learn","Network & IT Center","TM Learning and Development",1
+22,2022-10-17,2022-10-17,"MANAGING DIFFICULT CONVERSATION",Management,"TM Learn","Business Management Center","TM Learning and Development",1
+23,2022-10-17,2022-10-17,"TM NEXT GENERATION TRANSPORT NETWORK TOWARDS 5G ERA",Core,"TM Learn","Network & IT Center","TM Learning and Development",1
+24,2022-10-20,2022-10-20,"E-PEMBELAJARAN ASAS PENGENALAN KEPADA POLISI TADBIR URUS DATA TM",Core,"TM Learn","Network & IT Center","TM Learning and Development",1
+25,2022-10-20,2022-10-20,"AKTA PERLINDUNGAN DATA PERIBADI 2010 (APDP) / PERSONAL DATA PROTECTION ACT 2010 (PDPA)",Core,"TM Learn","Business Management Center","TM Learning and Development",1
+26,2022-10-20,2022-10-20,"INTEGRITI TANPA KOMPROMI / UNCOMPROMISING INTEGRITY",Core,"TM Learn","Business Management Center","TM Learning and Development",1
+27,2022-10-20,2022-10-20,"SIRI A.M.A.N.A.H",Core,"TM Learn","Business Management Center","TM Learning and Development",1
+28,2022-10-20,2022-10-20,"AGILE AWARENESS (E-LEARNING)",Core,"TM Learn","Agile Center","TM Learning and Development",1
+29,2022-10-31,2022-10-31,"INFORMATION SECURITY AWARENESS","Non Core","TM Learn","Network & IT Center","TM Learning and Development",1
+30,2022-10-31,2022-10-31,"TM CODE OF CONDUCT & BUSINESS ETHICS",Core,"TM Learn","Business Management Center","TM Learning and Development",1
+31,2022-10-04,2022-10-04,"PROGRAM LATIHAN ASAS KERJA SELAMAT (PLAKS)",Core,"TM Learn","Network & IT Center","TM Learning and Development",1
+32,2022-10-08,2022-10-08,"GENERAL KNOWLEDGE","Non Core","TM Learn","Leadership Center","TM Learning and Development",1
+33,2022-10-12,2022-10-12,"TM SMARTX2 GOAL",Core,"TM Learn","Business Management Center","TM Learning and Development",1

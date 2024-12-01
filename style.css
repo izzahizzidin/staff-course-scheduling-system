@@ -1,0 +1,215 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    background: #f7f7f7;
+}
+
+.form {
+    margin: auto;
+    width: 600px;
+    max-height: 90%;
+    padding: 15px 15px;
+    background: #ED7816;
+}
+
+button.dashb {
+    width: 150px;
+    height: 40px;
+    border: 1px solid #2C4E91;
+    background-color: #f7f7f7;
+    padding: 1px;
+    margin: 3px;
+}
+
+a.dash {
+    font-size: 15px;
+    color: #2C4E91;
+    text-align: center;
+}
+
+h1.login-title {
+    font-weight: bold;
+    color: #2C4E91;
+    margin: 0px auto 25px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.login-input {
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    color: #2C4E91;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    padding: 7px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: calc(100% - 20px);
+}
+
+.login-input:focus {
+    border-color: #6e8095;
+    outline: none;
+}
+
+.login-button {
+    font-weight: bold;
+    color: #2C4E91;
+    background: #f7f7f7;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.link {
+    color: #666;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.link a {
+    color: #2C4E91;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
+
+.tablebox {
+    margin: 5px auto;
+    width: 95%;
+    padding: 15px 15px;
+    background: #ED7816;
+}
+
+.namelist {
+    border-collapse: collapse;
+    width: auto;
+    max-width: 95%;
+    min-width: 50%;
+    margin: auto;
+    padding: auto;
+    text-decoration: none;
+}
+
+.namelist th,
+.namelist td {
+    border: 1px solid #011e58;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.namelist td {
+    color: #2C4E91;
+}
+
+.updel {
+    text-align: center;
+    text-decoration: none;
+}
+
+.namelist tr:nth-child(odd) {
+    background-color: #f7f7f7;
+}
+
+.namelist tr:nth-child(even) {
+    background-color: #afc1e6;
+}
+
+.namelist tr:hover {
+    background-color: #c5ccd8;
+}
+
+.namelist th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #2C4E91;
+    color: white;
+}
+
+.buttonmid {
+    margin: auto;
+    padding: auto;
+}
+
+.search-input {
+    font-size: 15px;
+    font-weight: bold;
+    color: #2C4E91;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(90% - 23px);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button.search {
+    font-size: 15px;
+    font-weight: bold;
+    color: #2C4E91;
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 40px;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.list {
+    border-collapse: collapse;
+    width: auto;
+    max-width: 100%;
+    min-width: 50%;
+    margin: auto;
+    padding: auto;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.list th,
+.list td {
+    border: 1px solid #011e58;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.list td {
+    color: #2C4E91;
+}
+
+.list tr:nth-child(odd) {
+    background-color: #f7f7f7;
+}
+
+.list tr:nth-child(even) {
+    background-color: #c8d6f2;
+}
+
+.list tr:hover {
+    background-color: #c5ccd8;
+}
+
+.list th {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: left;
+    background-color: #2C4E91;
+    color: white;
+}
